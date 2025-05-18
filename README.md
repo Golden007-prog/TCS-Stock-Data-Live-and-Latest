@@ -96,8 +96,10 @@ An interactive Streamlit app with:
 
 > Deploy this locally with:
 streamlit run dashboard.py
+![Screenshot 2025-05-18 040037](https://github.com/user-attachments/assets/ab80fdd6-796b-4ff3-b5e9-84d0d8ad01ba)
+![Screenshot 2025-05-18 012447](https://github.com/user-attachments/assets/73346773-b56c-4f26-b85e-23365aec313a)
 
-===
+---
 
 # TCS Stock Price Prediction Dashboard live
 
@@ -130,6 +132,9 @@ Choose from multiple forecasting intervals:
 - `5Y (weekly)`
 
 ### Visualization
+![Screenshot 2025-05-18 050448](https://github.com/user-attachments/assets/abd53960-380b-485e-9359-c7da39b68369)
+![Screenshot 2025-05-18 050717](https://github.com/user-attachments/assets/6acac23b-3ab6-4bb3-bbf8-ea40566554e8)
+
 - Interactive candlestick charts for actual vs. predicted prices.
 - Moving averages (MA20, MA50) overlays.
 - Buy/Sell signal generation using **EMA crossover**.
@@ -157,3 +162,6 @@ Choose from multiple forecasting intervals:
 
 ## How to Run
 streamlit run app.py
+![Screenshot 2025-05-18 065300](https://github.com/user-attachments/assets/4a829b94-0d3a-44a9-b4f8-4825ee1ef114)
+![Screenshot 2025-05-18 065312](https://github.com/user-attachments/assets/0d7914d4-9521-447d-a5d7-818625a5fc3c)
+![Screenshot 2025-05-18 065339](https://github.com/user-attachments/assets/2d106b01-047d-4247-8c2e-aa620cbca21d)
