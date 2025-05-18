@@ -1,5 +1,5 @@
 # TCS Stock Data Latest
-![gg](https://github.com/user-attachments/assets/4f39512b-8ec9-4694-9ea7-263cde7e45b8)
+![growth1](https://github.com/user-attachments/assets/b5ad89d3-25c2-4868-b7f1-cc5c0647e793)
 
 ---
 A complete data science project that explores, analyzes, and forecasts **Tata Consultancy Services (TCS)** stock performance using technical indicators, machine learning, deep learning, and interactive dashboards.
@@ -81,7 +81,7 @@ This project uses three datasets:
 
 ---
 
-## Dashboard (📁 `dashboard.py`)
+## Dashboard (`dashboard.py`)
 
 An interactive Streamlit app with:
 
@@ -155,5 +155,5 @@ Choose from multiple forecasting intervals:
 
 ---
 
-## 🧩 How to Run
+## How to Run
 streamlit run app.py
